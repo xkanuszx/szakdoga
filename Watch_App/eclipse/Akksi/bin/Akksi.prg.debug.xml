@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+    <manifest filename="C:\Users\xkacz\eclipse-workspace\Akksi\manifest.xml"/>
+    <pcToLineNum>
+        <entry filename="C:\\Users\\xkacz\\eclipse-workspace\\Akksi\\source\\AkksiView.mc" id="3" lineNum="11" pc="268435456" symbol="initialize"/>
+        <entry filename="C:\\Users\\xkacz\\eclipse-workspace\\Akksi\\source\\AkksiView.mc" id="3" lineNum="12" pc="268435460" symbol="initialize"/>
+        <entry filename="C:\\Users\\xkacz\\eclipse-workspace\\Akksi\\source\\AkksiView.mc" id="3" lineNum="13" pc="268435478" symbol="initialize"/>
+        <entry filename="C:\\Users\\xkacz\\eclipse-workspace\\Akksi\\source\\AkksiView.mc" id="3" lineNum="15" pc="268435491" symbol="initialize"/>
+        <entry filename="C:\\Users\\xkacz\\eclipse-workspace\\Akksi\\source\\AkksiView.mc" id="4" lineNum="26" pc="268435575" symbol="compute"/>
+        <entry filename="C:\\Users\\xkacz\\eclipse-workspace\\Akksi\\source\\AkksiView.mc" id="4" lineNum="27" pc="268435579" symbol="compute"/>
+        <entry filename="C:\\Users\\xkacz\\eclipse-workspace\\Akksi\\source\\AkksiView.mc" id="4" lineNum="28" pc="268435596" symbol="compute"/>
+        <entry filename="C:\\Users\\xkacz\\eclipse-workspace\\Akksi\\source\\AkksiView.mc" id="4" lineNum="29" pc="268435630" symbol="compute"/>
+        <entry filename="C:\\Users\\xkacz\\eclipse-workspace\\Akksi\\source\\AkksiView.mc" id="4" lineNum="30" pc="268435644" symbol="compute"/>
+        <entry filename="C:\\Users\\xkacz\\eclipse-workspace\\Akksi\\source\\AkksiView.mc" id="4" lineNum="31" pc="268435664" symbol="compute"/>
+        <entry filename="C:\\Users\\xkacz\\eclipse-workspace\\Akksi\\source\\AkksiView.mc" id="4" lineNum="33" pc="268435677" symbol="compute"/>
+        <entry filename="C:\\Users\\xkacz\\eclipse-workspace\\Akksi\\source\\AkksiView.mc" id="4" lineNum="6" pc="268435855" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Users\\xkacz\\eclipse-workspace\\Akksi\\source\\AkksiApp.mc" id="6" lineNum="5" pc="268435701" symbol="initialize"/>
+        <entry filename="C:\\Users\\xkacz\\eclipse-workspace\\Akksi\\source\\AkksiApp.mc" id="6" lineNum="6" pc="268435705" symbol="initialize"/>
+        <entry filename="C:\\Users\\xkacz\\eclipse-workspace\\Akksi\\source\\AkksiApp.mc" id="7" lineNum="10" pc="268435724" symbol="onStart"/>
+        <entry filename="C:\\Users\\xkacz\\eclipse-workspace\\Akksi\\source\\AkksiApp.mc" id="8" lineNum="14" pc="268435729" symbol="onStop"/>
+        <entry filename="C:\\Users\\xkacz\\eclipse-workspace\\Akksi\\source\\AkksiApp.mc" id="9" lineNum="18" pc="268435734" symbol="getInitialView"/>
+        <entry filename="C:\\Users\\xkacz\\eclipse-workspace\\Akksi\\source\\AkksiApp.mc" id="9" lineNum="19" pc="268435738" symbol="getInitialView"/>
+        <entry filename="C:\\Users\\xkacz\\eclipse-workspace\\Akksi\\source\\AkksiApp.mc" id="9" lineNum="3" pc="268435806" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Users\\xkacz\\eclipse-workspace\\Akksi\\source\\AkksiApp.mc" id="10" lineNum="24" pc="268435776" symbol="getApp"/>
+        <entry filename="C:\\Users\\xkacz\\eclipse-workspace\\Akksi\\source\\AkksiApp.mc" id="10" lineNum="25" pc="268435788" symbol="getApp"/>
+        <entry filename="Rez" id="17" lineNum="1" pc="268435825" symbol="&lt;init&gt;"/>
+    </pcToLineNum>
+    <symbolTable>
+        <entry field="true" id="14" symbol="batt_label"/>
+        <entry id="8388632" method="true" symbol="&lt;init&gt;"/>
+        <entry id="4" module="true" symbol="globals/Rez/Menus"/>
+        <entry id="8389849" symbol="units"/>
+        <entry field="true" id="17" symbol="BATT_FIELD_ID"/>
+        <entry id="10" object="true" symbol="AkksiApp"/>
+        <entry field="true" id="8388611" module="true" symbol="Toybox"/>
+        <entry field="true" id="16" symbol="AppName"/>
+        <entry id="8" module="true" symbol="globals/Rez/Strings"/>
+        <entry id="8388772" module="true" object="true" symbol="Fonts"/>
+        <entry id="8388648" module="true" symbol="WatchUi"/>
+        <entry id="2" module="true" symbol="globals/Rez"/>
+        <entry id="8388771" module="true" object="true" symbol="Drawables"/>
+        <entry id="12" module="true" symbol="Menus"/>
+        <entry id="8389275" method="true" symbol="getApp"/>
+        <entry id="6" module="true" symbol="globals/Rez/Layouts"/>
+        <entry id="8389137" method="true" symbol="compute"/>
+        <entry id="7" module="true" symbol="globals/Rez/JsonData"/>
+        <entry id="9" object="true" symbol="AkksiView"/>
+        <entry id="3" module="true" symbol="globals/Rez/Drawables"/>
+        <entry id="8388644" module="true" symbol="System"/>
+        <entry id="8388769" module="true" object="true" symbol="Rez"/>
+        <entry id="8388640" module="true" symbol="Lang"/>
+        <entry id="8390088" module="true" object="true" symbol="JsonData"/>
+        <entry field="true" id="13" symbol="LauncherIcon"/>
+        <entry id="8388610" symbol="statics"/>
+        <entry id="8389350" module="true" symbol="globals"/>
+        <entry field="true" id="18" symbol="batt_field"/>
+        <entry id="8388770" module="true" object="true" symbol="Strings"/>
+        <entry id="8388702" method="true" symbol="initialize"/>
+        <entry field="true" id="15" symbol="batt_units"/>
+        <entry id="8389279" method="true" symbol="onStart"/>
+        <entry id="8389780" module="true" symbol="FitContributor"/>
+        <entry id="8388641" module="true" symbol="Math"/>
+        <entry id="8389280" method="true" symbol="getInitialView"/>
+        <entry id="8389281" method="true" symbol="onStop"/>
+        <entry id="8389847" symbol="mesgType"/>
+        <entry id="11" module="true" symbol="Layouts"/>
+        <entry id="5" module="true" symbol="globals/Rez/Fonts"/>
+        <entry id="8388635" module="true" symbol="Application"/>
+        <entry field="true" id="19" symbol="old_batt"/>
+    </symbolTable>
+    <localVars>
+        <entry endPc="268435700" name="stats" stackId="2" startPc="268435579"/>
+        <entry endPc="268435700" name="new_batt" stackId="3" startPc="268435579"/>
+        <entry arg="true" endPc="268435701" name="info" stackId="1" startPc="268435575"/>
+        <entry arg="true" endPc="268435729" name="state" stackId="1" startPc="268435724"/>
+        <entry arg="true" endPc="268435734" name="state" stackId="1" startPc="268435729"/>
+    </localVars>
+    <annotations>
+        <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="LauncherIcon"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="batt_label"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="batt_units"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="AppName"/>
+    </annotations>
+    <dataEntryOffsetMappings>
+        <dataEntry label="globals" offset="87" parentId="" symbolId="globals" type="module"/>
+        <dataEntry label="globals/AkksiApp" offset="158" parentId="globals" symbolId="AkksiApp" type="class"/>
+        <dataEntry label="globals/Rez" offset="229" parentId="globals" symbolId="Rez" type="module"/>
+        <dataEntry label="globals/Rez/Drawables" offset="308" parentId="Rez" symbolId="Drawables" type="module"/>
+        <dataEntry label="globals/Rez/Menus" offset="347" parentId="Rez" symbolId="Menus" type="module"/>
+        <dataEntry label="globals/Rez/Fonts" offset="378" parentId="Rez" symbolId="Fonts" type="module"/>
+        <dataEntry label="globals/Rez/Layouts" offset="409" parentId="Rez" symbolId="Layouts" type="module"/>
+        <dataEntry label="globals/Rez/JsonData" offset="440" parentId="Rez" symbolId="JsonData" type="module"/>
+        <dataEntry label="globals/Rez/Strings" offset="471" parentId="Rez" symbolId="Strings" type="module"/>
+        <dataEntry label="globals/AkksiView" offset="526" parentId="globals" symbolId="AkksiView" type="class"/>
+    </dataEntryOffsetMappings>
+    <functions>
+        <functionEntry accessMode="public" name="initialize" parent="AkksiView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="compute" parent="AkksiView">
+            <param id="info"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="AkksiApp">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onStart" parent="AkksiApp">
+            <param id="state"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onStop" parent="AkksiApp">
+            <param id="state"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="getInitialView" parent="AkksiApp">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="getApp">
+            <documentation/>
+        </functionEntry>
+    </functions>
+</debugInfo>
